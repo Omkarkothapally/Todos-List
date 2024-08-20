@@ -1,3 +1,15 @@
+# ToDo List Application
+## Overview
+The ToDo List application is a simple yet effective tool designed to help users manage their daily tasks. It allows you to create, update, and delete tasks, making it easy to organize and prioritize your work. Whether you're a student managing assignments, a professional keeping track of work tasks, or just someone who wants to stay organized, this ToDo List app provides a user-friendly interface to keep your tasks in check.
+
+## Features
+- **Add Tasks**: Easily add new tasks to your list with a few clicks.
+- **Delete Tasks**: Remove tasks that are no longer needed or completed.
+- **Responsive Design**: The app is designed to work seamlessly on mobile, tablet, and desktop devices.
+## Technologies Used
+- HTML, CSS, JavaScript ,React.js for development
+- Git for version management
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
